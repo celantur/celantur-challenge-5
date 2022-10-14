@@ -24,9 +24,9 @@ Goals
 
 ### Coding challenge
 
-- Implement an image classifier in ResNet on CIFAR-10. 
+- Implement an image classifier in ResNet on CIFAR-10. Don't use a pre-trained network.
 - Framework: PyTorch. 
-- Target: minimum 90% accuracy. 
+- Target: minimum 90% accuracy.
 
 ### Pre-interview preparations
 
